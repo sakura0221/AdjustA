@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		382736F423B5A18300C13CF1 /* adjusta.png in Resources */ = {isa = PBXBuildFile; fileRef = 382736F323B5A18300C13CF1 /* adjusta.png */; };
 		3860FED623B58A0900A7F930 /* Volume.png in Resources */ = {isa = PBXBuildFile; fileRef = 3860FED523B58A0900A7F930 /* Volume.png */; };
 		38D973B423B45A0B0003C81F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D973B323B45A0B0003C81F /* AppDelegate.swift */; };
 		38D973B623B45A0B0003C81F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D973B523B45A0B0003C81F /* SceneDelegate.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		382736F323B5A18300C13CF1 /* adjusta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = adjusta.png; sourceTree = "<group>"; };
 		3860FED523B58A0900A7F930 /* Volume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Volume.png; sourceTree = "<group>"; };
 		38D973B023B45A0B0003C81F /* AdjustA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdjustA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38D973B323B45A0B0003C81F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 		38D973B223B45A0B0003C81F /* AdjustA */ = {
 			isa = PBXGroup;
 			children = (
+				382736F323B5A18300C13CF1 /* adjusta.png */,
 				3860FED523B58A0900A7F930 /* Volume.png */,
 				38D973D123B480150003C81F /* stop.png */,
 				38D973CF23B4800D0003C81F /* play.png */,
@@ -143,6 +146,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				382736F423B5A18300C13CF1 /* adjusta.png in Resources */,
 				38D973D023B4800D0003C81F /* play.png in Resources */,
 				38D973D223B480150003C81F /* stop.png in Resources */,
 				3860FED623B58A0900A7F930 /* Volume.png in Resources */,
