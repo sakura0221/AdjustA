@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		382736F423B5A18300C13CF1 /* adjusta.png in Resources */ = {isa = PBXBuildFile; fileRef = 382736F323B5A18300C13CF1 /* adjusta.png */; };
 		3860FED623B58A0900A7F930 /* Volume.png in Resources */ = {isa = PBXBuildFile; fileRef = 3860FED523B58A0900A7F930 /* Volume.png */; };
+		3879BA3E23B6D556003D661B /* menu-filled.png in Resources */ = {isa = PBXBuildFile; fileRef = 3879BA3D23B6D556003D661B /* menu-filled.png */; };
+		3879BA4023B6DC23003D661B /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3879BA3F23B6DC23003D661B /* MenuViewController.swift */; };
 		38D973B423B45A0B0003C81F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D973B323B45A0B0003C81F /* AppDelegate.swift */; };
 		38D973B623B45A0B0003C81F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D973B523B45A0B0003C81F /* SceneDelegate.swift */; };
 		38D973B823B45A0B0003C81F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D973B723B45A0B0003C81F /* ViewController.swift */; };
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		382736F323B5A18300C13CF1 /* adjusta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = adjusta.png; sourceTree = "<group>"; };
 		3860FED523B58A0900A7F930 /* Volume.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Volume.png; sourceTree = "<group>"; };
+		3879BA3D23B6D556003D661B /* menu-filled.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "menu-filled.png"; path = "../../menu-filled.png"; sourceTree = "<group>"; };
+		3879BA3F23B6DC23003D661B /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		38D973B023B45A0B0003C81F /* AdjustA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AdjustA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38D973B323B45A0B0003C81F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		38D973B523B45A0B0003C81F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +85,8 @@
 				38D973B523B45A0B0003C81F /* SceneDelegate.swift */,
 				38D973B723B45A0B0003C81F /* ViewController.swift */,
 				38D973B923B45A0B0003C81F /* Main.storyboard */,
+				3879BA3F23B6DC23003D661B /* MenuViewController.swift */,
+				3879BA3D23B6D556003D661B /* menu-filled.png */,
 				38D973BC23B45A0B0003C81F /* Assets.xcassets */,
 				38D973BE23B45A0B0003C81F /* LaunchScreen.storyboard */,
 				38D973C123B45A0B0003C81F /* Info.plist */,
@@ -153,6 +159,7 @@
 				38D973C023B45A0B0003C81F /* LaunchScreen.storyboard in Resources */,
 				38D973CA23B45D5D0003C81F /* Icon awesome-bars@3x.png in Resources */,
 				38D973BD23B45A0B0003C81F /* Assets.xcassets in Resources */,
+				3879BA3E23B6D556003D661B /* menu-filled.png in Resources */,
 				38D973C823B45A790003C81F /* music_oboe.png in Resources */,
 				38D973CE23B477060003C81F /* oboe.mp3 in Resources */,
 				38D973BB23B45A0B0003C81F /* Main.storyboard in Resources */,
@@ -169,6 +176,7 @@
 				38D973B823B45A0B0003C81F /* ViewController.swift in Sources */,
 				38D973B423B45A0B0003C81F /* AppDelegate.swift in Sources */,
 				38D973B623B45A0B0003C81F /* SceneDelegate.swift in Sources */,
+				3879BA4023B6DC23003D661B /* MenuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
